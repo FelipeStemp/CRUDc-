@@ -1,0 +1,26 @@
+C:\Users\felip\Desktop\marcenaria\marcenaria final.exe
+C:\Users\felip\Desktop\marcenaria\marcenaria final.dll
+C:\Users\felip\Desktop\marcenaria\marcenaria final.deps.json
+C:\Users\felip\Desktop\marcenaria\marcenaria final.runtimeconfig.json
+C:\Users\felip\Desktop\marcenaria\marcenaria final.pdb
+C:\Users\felip\Desktop\marcenaria\EPPlus.dll
+C:\Users\felip\Desktop\marcenaria\EPPlus.Interfaces.dll
+C:\Users\felip\Desktop\marcenaria\EPPlus.System.Drawing.dll
+C:\Users\felip\Desktop\marcenaria\ExcelDataReader.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.Configuration.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.Extensions.Primitives.dll
+C:\Users\felip\Desktop\marcenaria\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\felip\Desktop\marcenaria\System.Data.SqlClient.dll
+C:\Users\felip\Desktop\marcenaria\System.Security.Cryptography.Pkcs.dll
+C:\Users\felip\Desktop\marcenaria\runtimes\win-arm64\native\sni.dll
+C:\Users\felip\Desktop\marcenaria\runtimes\win-x64\native\sni.dll
+C:\Users\felip\Desktop\marcenaria\runtimes\win-x86\native\sni.dll
+C:\Users\felip\Desktop\marcenaria\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\felip\Desktop\marcenaria\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\felip\Desktop\marcenaria\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
